@@ -25,7 +25,6 @@
 
 <!-- 🧠 TECH STACK SECTION -->
 ## 🧠 Tech Stack  
-<img align="right" src="girlwork.gif" width="230">
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; margin-bottom: 40px;">
 
