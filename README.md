@@ -3,11 +3,6 @@
   <img src="generated-image (4).png" alt="Sayantani Mandal - Operations Research & Data Science" width="100%">
 </p>
 
-
-<p align="center">
-  <img src="profile_animated.jpg" width="250" alt="Profile Picture" style="border-radius:50%;">
-</p>
-
 <h1 align="center">Hi there 👋, I'm Sayantani Mandal</h1>
 <h3 align="center">✨ Operations Research | Data Analytics | Optimization Enthusiast ✨</h3>
 
@@ -20,7 +15,7 @@
 😄 **Fun Fact:** I optimize everything — except my sleep schedule.  
 
 ---
-
+<img align="right" src="connect_with_me.gif" width="250">
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantani-mandal-967569248)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@OptiNerds)  
@@ -66,11 +61,5 @@
 
 ---
 
-## 🌟 Visitors  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sayantani-31&icon=0&color=6" alt="Visitor Count" />
-</p>
-
----
 
 <!-- Proudly created with ❤️ by Sayantani Mandal -->
