@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Sayantani-31/Sayantani-31/profile_animated.jpg" width="250" alt="Profile Picture" style="border-radius:50%;">
+  <img src="profile_animated.jpg" width="250" alt="Profile Picture" style="border-radius:50%;">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sayantani Mandal</h1>
@@ -29,6 +29,10 @@
 ---
 
 ## 🧠 Tech Stack  
+
+<!-- Right-aligned profile picture -->
+<img align="right" src="girlwork.gif" width="250">
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -47,6 +51,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+
+
 
 ## 📈 GitHub Stats  
 <p align="center">
