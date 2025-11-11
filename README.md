@@ -10,16 +10,39 @@
 
 ## 💫 About Me  
 🎯 Currently working as an **Analyst at Infosys**, where I apply **Operations Research** and **Machine Learning** to solve complex, data-driven business problems.  
+
+
 📊 Passionate about **optimization, forecasting, and intelligent decision systems** — I love turning mathematical models into real-world solutions.    
+
+
 💻 Always exploring new ways to blend **data science, math, and business strategy** into scalable insights.  
+
+
 😄 **Fun Fact:** I optimize everything — except my sleep schedule.  
 
 ---
-<img align="right" src="connect_with_me.gif" width="250">
+<!-- Connect Section -->
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantani-mandal-967569248)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@OptiNerds)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayantani.mandal3110@gmail.com)
+
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 250px;">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantani-mandal-967569248)  
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@OptiNerds)  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantani.mandal3110@gmail.com)
+
+  <br>
+
+  ⭐ *Let’s connect, collaborate, and geek out about data, optimization, and AI!*  
+
+  </div>
+
+  <div style="flex-shrink: 0;">
+    <img src="connect_with_me.gif" width="230" alt="Connect with me" align="right" style="border-radius: 15px; margin-left: 20px;">
+  </div>
+
+</div>
 
 ---
 
