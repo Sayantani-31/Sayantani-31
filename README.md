@@ -47,9 +47,6 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
-  </div>
-  ### ⚙️ Optimization & Operations Research Tools
-  <div>
   ![Gurobi](https://img.shields.io/badge/Gurobi-EE3524.svg?style=for-the-badge&logoColor=white)
   ![CPLEX](https://img.shields.io/badge/IBM%20CPLEX-052FAD.svg?style=for-the-badge&logo=ibm&logoColor=white)
   ![Google OR-Tools](https://img.shields.io/badge/Google%20OR--Tools-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
