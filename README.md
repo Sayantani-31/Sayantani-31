@@ -46,7 +46,25 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
+  
+  </div>
+  ### ⚙️ Optimization & Operations Research Tools
+  <div>
+  ![Gurobi](https://img.shields.io/badge/Gurobi-EE3524.svg?style=for-the-badge&logoColor=white)
+  ![CPLEX](https://img.shields.io/badge/IBM%20CPLEX-052FAD.svg?style=for-the-badge&logo=ibm&logoColor=white)
+  ![Google OR-Tools](https://img.shields.io/badge/Google%20OR--Tools-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![NVIDIA cuOpt](https://img.shields.io/badge/NVIDIA%20cuOpt-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![Pyomo](https://img.shields.io/badge/Pyomo-1F77B4.svg?style=for-the-badge&logoColor=white)
+  ![PuLP](https://img.shields.io/badge/PuLP-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![DOcplex](https://img.shields.io/badge/DOcplex-052FAD.svg?style=for-the-badge&logo=ibm&logoColor=white)
+  ![Python-MIP](https://img.shields.io/badge/Python--MIP-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![HiGHS](https://img.shields.io/badge/HiGHS-2E8B57.svg?style=for-the-badge&logoColor=white)
+  ![SCIP](https://img.shields.io/badge/SCIP-FF6F00.svg?style=for-the-badge&logoColor=white)
+  ![CBC](https://img.shields.io/badge/CBC-00599C.svg?style=for-the-badge&logoColor=white)
+  ![GLPK](https://img.shields.io/badge/GLPK-6A1B9A.svg?style=for-the-badge&logoColor=white)
+  ![COIN-OR](https://img.shields.io/badge/COIN--OR-003B5C.svg?style=for-the-badge&logoColor=white)
+  ![SciPy Optimize](https://img.shields.io/badge/SciPy%20Optimize-0C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+  
   </div>
 
   <div style="flex-shrink: 0; margin-left: 20px;">
