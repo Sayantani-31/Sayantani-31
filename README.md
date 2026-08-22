@@ -1,6 +1,6 @@
 <!-- Profile Banner or Animated Image -->
 <p align="center">
-  <img src="generated-image (4).png" alt="Sayantani Mandal - Operations Research & Data Science" width="100%">
+  <img src="background_image_1.png" alt="Sayantani Mandal - Operations Research & Data Science" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sayantani Mandal</h1>
