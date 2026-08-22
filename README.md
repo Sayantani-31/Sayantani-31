@@ -64,7 +64,7 @@
   </div>
 
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img align="right" src="girlwork.gif" width="250" alt="Working Girl Animation" style="border-radius: 15px;">
+    <img align="left" src="girlwork.gif" width="250" alt="Working Girl Animation" style="border-radius: 15px;">
   </div>
 
 </div>
